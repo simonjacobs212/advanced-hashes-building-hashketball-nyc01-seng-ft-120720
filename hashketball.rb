@@ -33,7 +33,6 @@ def game_hash
           :blocks => 0,
           :slam_dunks => 0
         }
-
       ]
     }
   }
