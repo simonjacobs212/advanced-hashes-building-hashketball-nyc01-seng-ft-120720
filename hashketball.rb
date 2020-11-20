@@ -7,16 +7,16 @@ def game_hash
         {
           :player_name => nil,
           :number => 0,
-          :shoe => 
+          :shoe =>
         }
-        
+
       ]
     },
     :away => {
       :team_name => "",
       :colors => [],
       :players => [
-        
+
       ]
     }
   }
